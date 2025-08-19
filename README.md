@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Yo, welcome to my GitHub!
 
 Here you’ll find some of my projects, experiments, and bits of code.
