@@ -18,13 +18,6 @@ I’m into Linux, BSD, oldschool net culture, and keeping the IRC spirit alive.
 
 ---
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 📡 About me
 
 - 🔭 Currently thinking on: fun side projects
