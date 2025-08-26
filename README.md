@@ -19,6 +19,7 @@ I’m into Linux, BSD, oldschool net culture, and keeping the IRC spirit alive.
 What does "szpont" mean in Polish? I think it means to "combine" or something similar. Why do we need a kombitool d00d?
 We're connivers and think differently than everyone else. - wrote by idefix from oldskull Szpont development . =)
 ---
+## 🔒 My Private httpd Server on Thinkpad
 
 Currently running httpd server on 🐡 OpenBSD 7.7-current (SZPONTOS) #0
 The server is managed via ssh on the internal network.
