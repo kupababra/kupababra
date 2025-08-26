@@ -24,7 +24,7 @@ We're connivers and think differently than everyone else. - wrote by idefix from
 
 ---
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/OpenBSD-puffy.svg" width="28"/> 🐡 My Private httpd Server on Thinkpad ![badge](https://img.shields.io/badge/Private-Server-red)
+## <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Puffy_STK.png" width="28"/> My Private httpd Server on Thinkpad width="28"/> 🐡 My Private httpd Server on Thinkpad ![badge](https://img.shields.io/badge/Private-Server-red)
 
 Currently running httpd server on 🐡 OpenBSD 7.7-current (SZPONTOS) #0  
 The server is managed via ssh on the internal network.  
