@@ -22,17 +22,11 @@ We're connivers and think differently than everyone else. - wrote by idefix from
 
 ## 📡 About me
 
-- 🔭 Currently thinking on: fun side projects
-- 🌱 Learning: Python & Ai:
 - 🎧 Favorite vibe: late night coding with IRC open
 - 📫 Reach me: bofh@retro-technology.pl
-
-<!--
 - 🔭 I’m currently working on ... various projects that come to my mind  
 - 🌱 I’m currently learning ... Python and Artificial Intelligence (AI)  
 - 👯 I’m looking to collaborate on ... interesting open-source projects  
 - 🤔 I’m looking for help with ... improving my programming and AI skills  
-- 💬 Ask me about ... OpenBSD, retro technology, DIY projects  
-- 📫 How to reach me: bofh@retro-technology.pl  
+- 💬 Ask me about ... OpenBSD, retro technology, DIY projects   
 - ⚡ Fun fact: I love experimenting with old computers and Unix-like systems  
--->
