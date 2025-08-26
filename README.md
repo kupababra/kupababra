@@ -21,6 +21,8 @@ We're connivers and think differently than everyone else. - wrote by idefix from
 ---
 
 Currently running httpd server on 🐡 OpenBSD 7.7-current (SZPONTOS) #0
+The server is managed via ssh on the internal network.
+Nobody can touch Puffy, because only one person who lives on the planet can touch.:*
 
 ## 📡 About me
 - 🎧 Favorite vibe: late night coding with IRC open
