@@ -20,8 +20,9 @@ What does "szpont" mean in Polish? I think it means to "combine" or something si
 We're connivers and think differently than everyone else. - wrote by idefix from oldskull Szpont development . =)
 ---
 
-## 📡 About me
+Currently running httpd server on 🐡 OpenBSD 7.7-current (SZPONTOS) #0
 
+## 📡 About me
 - 🎧 Favorite vibe: late night coding with IRC open
 - 📫 Reach me: bofh@retro-technology.pl
 - 🔭 I’m currently working on ... various projects that come to my mind  
