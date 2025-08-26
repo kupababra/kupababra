@@ -28,10 +28,6 @@ We're connivers and think differently than everyone else. - wrote by idefix from
 - 📫 Reach me: bofh@retro-technology.pl
 
 <!--
-**kupababra/kupababra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... various projects that come to my mind  
 - 🌱 I’m currently learning ... Python and Artificial Intelligence (AI)  
 - 👯 I’m looking to collaborate on ... interesting open-source projects  
