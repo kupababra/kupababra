@@ -27,7 +27,7 @@ We're connivers and think differently than everyone else - wrote by idefix.
 ## 📡 About me
 
 - 🎧 Favorite vibe: late night coding with IRC open  
-- 📫 Reach me: bofh@retro-technology.pl  
+- 📫 Reach me: admin@retro-technology.pl  
 - 🔭 I’m currently working on ... various projects that come to my mind  
 - 🌱 I’m currently learning ... Python and Artificial Intelligence (AI)  
 - 👯 I’m looking to collaborate on ... interesting open-source projects  
