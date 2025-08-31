@@ -48,11 +48,6 @@ Nobody can touch Puffy, because only one person who lives on the planet can touc
 
 ```bash
 # ~/.bashrc
-GREEN="\[\e[32m\]"
-RESET="\[\e[0m\]"
-PS1="${GREEN}\u@\h:\w\$ ${RESET}"
-alias ll='ls -la'
-export CLICOLOR=1
-export LSCOLORS=ExFxCxDxBxegedabagacad
+PS1="\[\e[30;107m\][\d \T]\[\e[0m\] \[\e[97;41m\] \h:\w\$ \[\e[0m\]"
 ```
 
