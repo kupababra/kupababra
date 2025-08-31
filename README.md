@@ -44,7 +44,7 @@ Nobody can touch Puffy, because only one person who lives on the planet can touc
 
 ---
 
-## 💻 Terminal Vibe (Matrix-style prompt)
+## 💻 Terminal Vibe (white-red prompt)
 
 ```bash
 # ~/.bashrc
