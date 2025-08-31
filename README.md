@@ -41,6 +41,6 @@ We're connivers and think differently than everyone else - wrote by idefix.
 
 ```bash
 # ~/.bashrc
-PS1="\[\e[30;107m\][\d \T]\[\e[0m\] \[\e[97;41m\] \h:\w\$ \[\e[0m\]"
+PS1='\[\e[30;107m\][\d \T]\[\e[0m\] \[\e[97;41m\] \h:\w\$ \[\e[0m\]'
 ```
 
