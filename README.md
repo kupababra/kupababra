@@ -23,13 +23,6 @@ What does "szpont" mean in Polish? I think it means to "combine" or something si
 We're connivers and think differently than everyone else - wrote by idefix.
 
 ---
-## 🐡 My Private httpd Server on Thinkpad ![badge](https://img.shields.io/badge/Private-Server-red)
-
-Currently running httpd server on 🐡 OpenBSD 7.7-current (SZPONTOS) #0  
-The server is managed via ssh on the internal network.  
-Nobody can touch Puffy, because only one person who lives on the planet can touch.:*
-
----
 
 ## 📡 About me
 
