@@ -20,6 +20,9 @@
 > 🔧⚙️ Where sparks fly, ideas run wild, and electronics bow to creativity.  
 > *Written by TinkerWheel (Idefix)*
 
+---
+## 🧩 Rebus 
+
 🥑 r◐◓t = wheel = th•nk
 
 ---
