@@ -18,8 +18,7 @@ I’m into Linux, BSD, oldschool net culture, and keeping the IRC spirit alive.
 ---
 
 ## <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f3c6.png" width="28"/> Message of the Year ![badge](https://img.shields.io/badge/Message_of_the_Year-🏆-brightgreen)
-
-What does "szpont" mean in Polish? I think it means to "combine" or something similar. Why do we need a kombitool d00d?  
+  
 We're connivers and think differently than everyone else - wrote by idefix.
 
 ---
