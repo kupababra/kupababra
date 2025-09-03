@@ -45,3 +45,8 @@ PS1='\[\e[30;107m\][\d \T]\[\e[0m\] \[\e[97;41m\] \h:\w\$ \[\e[0m\]'
 ```bash
 # echo The metaphor exists.
 ```
+## 💡 Fun Fact – Thinking
+- Did you know something interesting about thinking? 🤔  
+- Learn more here: [Thinking – Wikipedia](https://en.wikipedia.org/wiki/Thinking) 📚
+```
+
