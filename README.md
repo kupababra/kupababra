@@ -13,12 +13,10 @@ I’m into Linux, BSD, oldschool net culture, and keeping the IRC spirit alive.
 |   BSD ppl        |   oldskool vibes  |                 
 |   Linux ppl      |   retro fans      |
 +--------------------------------------+
-
 ```
 ## <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f3c6.png" width="28"/> Message of the Year ![badge](https://img.shields.io/badge/Message_of_the_Year-🏆-brightgreen)
 ```
 🔧⚙️ Where sparks fly, ideas run wild, and electronics bow to creativity.
-
 ```
 ## 📡 About me
 
