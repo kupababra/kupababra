@@ -15,14 +15,10 @@ I’m into Linux, BSD, oldschool net culture, and keeping the IRC spirit alive.
 +--------------------------------------+
 
 ```
-
-🔧⚙️ Where sparks fly, ideas run wild, and electronics bow to creativity. Written by TinkerWheel (idefix)
-
----
-
 ## <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f3c6.png" width="28"/> Message of the Year ![badge](https://img.shields.io/badge/Message_of_the_Year-🏆-brightgreen)
-  
-We're connivers, thinking outside the box – written by Idefix.
+```
+🔧⚙️ Where sparks fly, ideas run wild, and electronics bow to creativity.
+
 ```
 ## 📡 About me
 
@@ -32,8 +28,6 @@ We're connivers, thinking outside the box – written by Idefix.
 - 👯 I’m looking to collaborate on ... interesting open-source projects   
 - 💬 Ask me about ... *BSD/Linux, retro technology, DIY projects  
 - ⚡ Fun fact: I love experimenting with old computers and Unix-like systems
-
----
 
 ## 💻 Terminal Vibe (white-red prompt)
 
