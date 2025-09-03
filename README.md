@@ -10,7 +10,7 @@
 ---
 
 ## 📂 Key Projects
-- 🔒 **[Retro-BSD](https://github.com/kupababra/retro-bsd)** – experiments with BSD on retro hardware  
+- 🔒 **[RetroMp3](https://github.com/kupababra/RetroMp3)** – experiments with Mp3 retro player
 - 🖧 **[NetSpirit](https://github.com/kupababra/netspirit)** – tools to revive the IRC/net culture  
 - ⚙️ **[DIY-Electronics](https://github.com/kupababra/diy-electronics)** – soldering, hacking & tinkering projects  
 
