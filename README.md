@@ -11,7 +11,7 @@
 
 ## 📂 Key Projects
 - 🔒 **[RetroMp3](https://github.com/kupababra/RetroMp3)** – experiments with Mp3 retro player
-- 🖧 **[NetSpirit](https://github.com/kupababra/netspirit)** – tools to revive the IRC/net culture  
+- 🖧 **[EverKDZ](https://github.com/kupababra/EverKDZ)** – Evercade base collector 
 - ⚙️ **[DIY-Electronics](https://github.com/kupababra/diy-electronics)** – soldering, hacking & tinkering projects  
 
 ---
