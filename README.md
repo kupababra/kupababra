@@ -1,4 +1,4 @@
-# 🔥🔧 TinkerWheel - Retro computing and *BSD/Linux enthusiast. 
+# 🔥🔧 TinkerWheel – Retro computing and *BSD/Linux enthusiast*
 
 ## 🚀 About Me
 - 🎧 Favorite vibe: late night coding with IRC open  
