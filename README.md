@@ -52,6 +52,6 @@
 
 ## 📡 Message of the Year
 ```
-We're connivers, thinking outside the box – written by Idefix.
+“Never go with the mainstream, choose your own path.” – written by Idefix.
 ```
 
