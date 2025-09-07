@@ -59,5 +59,5 @@ echo “Never go with the mainstream, choose your own path.” – written by Id
 ```
 ## 🧙‍♂️ Geek Code
 ```
-GCS/J S/M O/U+L+O/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
+GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 
