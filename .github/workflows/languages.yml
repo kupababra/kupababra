@@ -1,1 +1,28 @@
+name: Update Languages Card
 
+on:
+  schedule:
+    - cron: "0 * * * *"   # co godzinę
+  workflow_dispatch:       # ręczne uruchomienie
+
+permissions:
+  contents: write          # ważne — pozwala workflow zapisać plik do repo
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate languages card
+        run: |
+          curl -s -o languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&cache_seconds=3600"
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add languages.svg || true
+          git commit -m "Update languages card" || echo "No changes"
+          git push
