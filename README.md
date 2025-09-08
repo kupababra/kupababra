@@ -56,7 +56,6 @@
 ```
 echo “True skill doesn’t need to be flashy to be effective.”
 echo "Coffee in hand, memories of infinite loops." ☕💻
-echo "Stay curious, young padawan. The code never sleeps."
 echo "Never go with the mainstream, choose your own path." – written by Idefix.
 ```
 ## 🧙‍♂️ Geek Code
