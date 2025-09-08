@@ -40,7 +40,7 @@
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](./languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupababra&layout=compact&langs_count=8&hide_border=true&cache_seconds=3600)
 
 ---
 
