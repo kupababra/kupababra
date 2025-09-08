@@ -63,8 +63,14 @@ echo "Never go with the mainstream, choose your own path." – written by Idefix
 ```
 GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 ```
-## 🎵 My Favorite Song
+## 🎵🎬 My Favorite Song & Movie 
 ---
+
 ✨🎶 **Perfekt** - *Lokomotywa z ogłoszenia* ✨🎶
 🎧 [Listen on Spotify](https://open.spotify.com/track/78HUr9N1Y4V3d6N7SojprG)
 
+---
+🎬👂 **Vabank** –  A classic Polish comedy, full of satire and unforgettable characters.
+⭐🌐 (https://pl.wikipedia.org/wiki/Vabank)
+
+---
