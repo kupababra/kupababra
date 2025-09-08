@@ -61,4 +61,9 @@ echo "Never go with the mainstream, choose your own path." – written by Idefix
 ## 🧙‍♂️ Geek Code
 ```
 GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
+```
+## 🎵 My Favorite Song
+---
+✨🎶 **Perfekt** - *Lokomotywa z ogłoszenia* ✨🎶
+🎧 [Listen on Spotify](https://open.spotify.com/track/78HUr9N1Y4V3d6N7SojprG)
 
