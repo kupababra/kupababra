@@ -71,6 +71,6 @@ GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 
 ---
 🎬👂 **Vabank** –  A classic Polish comedy, full of satire and unforgettable characters.
-⭐🌐 (https://pl.wikipedia.org/wiki/Vabank)
+⭐🌐 (https://en.wikipedia.org/wiki/Vabank)
 
 ---
