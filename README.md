@@ -10,8 +10,8 @@
 ---
 
 ## 📂 Key Projects
-- 🔒 **[RetroMp3](https://github.com/kupababra/RetroMp3)** – experiments with Mp3 retro player
-- 🖧 **[EverKDZ](https://github.com/kupababra/EverKDZ)** – Evercade base collector 
+- 📀 **[RetroMp3](https://github.com/kupababra/RetroMp3)** – experiments with Mp3 retro player
+- 🎴 **[EverKDZ](https://github.com/kupababra/EverKDZ)** – Evercade base collector 
 - 💾 **[C64-AutomizerMenu](https://github.com/kupababra/C64-AutomizerMenu)** - manage your Commodore 1541 II station
 - ⚙️ **[DIY-Electronics](https://github.com/kupababra/diy-electronics)** – soldering, hacking & tinkering projects  
 
