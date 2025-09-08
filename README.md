@@ -45,7 +45,10 @@
 ---
 
 ## 🏛️ Retro Wall of Fame
-🖥️ PDP-11 | 🎹 Commodore 64 | 🐧 Slackware 3.0 | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 Cd/Dvd | 📼 VHS
+
+🖥️ PDP-11 | 🎹 Commodore 64 | 🐧 Slackware 3.0 | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 CD / DVD | 📼 VHS 
+
+🖥️⌨️ Personal Computer 🇵🇱  
 
 ---
 
