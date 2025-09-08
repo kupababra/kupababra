@@ -40,8 +40,9 @@
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupababra&layout=compact&langs_count=8&hide_border=true&cache_seconds=3600)
 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupababra&layout=compact&langs_count=8&hide_border=true&cache_seconds=3600&hide_title=true)
 ---
 
 ## 💡 Retro Wall of Fame
