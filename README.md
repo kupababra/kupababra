@@ -49,7 +49,7 @@
 
 ---
 
-## 📡 Geek Wisdom
+## 🧠 Geek Wisdom
 ```
 echo "Coffee in hand, memories of infinite loops." ☕💻
 echo "Stay curious, young padawan. The code never sleeps."
