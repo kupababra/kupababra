@@ -24,7 +24,7 @@
 ---
 ## 🧩 Rebus 
 
-🍅 r◐◓t = wheel = th•nk
+🥑 r◐◓t = wheel = th•nk
 
 ---
 
