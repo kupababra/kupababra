@@ -58,7 +58,7 @@ echo "True skill doesn’t need to be flashy to be effective."
 echo "Coffee in hand, memories of infinite loops." ☕💻
 echo "Never go with the mainstream, choose your own path." – written by Idefix.
 ```
-## 🧙‍♂️ Geek Code
+## 👓 Geek Code
 ```
 GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 ```
