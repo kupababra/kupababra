@@ -24,7 +24,7 @@
 ---
 ## 🧩 Rebus 
 
-🥑 r◐◓t = wheel = th•nk
+🍅 r◐◓t = wheel = th•nk
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 🧠 Geek Wisdom
+## 📚 Geek Wisdom
 ```
 echo "True skill doesn’t need to be flashy to be effective."
 echo "Coffee in hand, memories of infinite loops." ☕💻
