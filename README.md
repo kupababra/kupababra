@@ -36,12 +36,6 @@
 |   Linux ppl      |   retro fans      |
 +--------------------------------------+
 ```
-
----
-
-## 📊 Most Used Languages
-
-![GitHub Stats](https://github-readme-stats-kappa-bay.vercel.app/api?username=kupababra&show_icons=true&theme=tokyonight)
 ---
 
 ## 🏛️ Retro Wall of Fame
