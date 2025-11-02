@@ -67,7 +67,8 @@ GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 
 <p align="center">
 🎶 <a href="https://open.spotify.com/track/75FCrINXY90bmfDbGyJCrJ">Perfekt – Lokomotywa z ogłoszenia</a> | 🎶 <a href="https://open.spotify.com/track/7a0wv5rBUsxYyxOaqcpqTP">Kombi – Black & White</a><br>
-🎶 <a href="https://open.spotify.com/track/0hpleYxPpPz0XNQ8SvDq54">O.S.T.R. – Wersy W Pysk</a> | 🎶 <a href="https://open.spotify.com/track/3G9nq3yDZC62oWs29WBBae">Paktofonika – Nowiny</a>
+🎶 <a href="https://open.spotify.com/track/0hpleYxPpPz0XNQ8SvDq54">O.S.T.R. – Wersy W Pysk</a> | 🎶 <a href="https://open.spotify.com/track/3G9nq3yDZC62oWs29WBBae">Paktofonika – Nowiny</a> |
+🎶 <a href="https://open.spotify.com/track/5oSOzHVwQfZsB9aBxp2YXh">Kury - Jesienna Deprecha</a>
 </p>
 
 ---
