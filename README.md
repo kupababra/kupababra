@@ -21,14 +21,22 @@
 ---
 
 ## 🙌 Shoutouts
-```
+
+<table align="center">
+<tr>
+<td>
+<pre>
 +--[ Greetz ]--------------------------+    
 |   #Ircnet crew   |   #Efnet legends  |
 |   BSD ppl        |   oldskool vibes  |                 
 |   Linux ppl      |   retro fans      |
 +--------------------------------------+
-```
----
+</pre>
+</td>
+</tr>
+</table>
+
+
 
 ## 🏛️ Retro Wall of Fame
 
