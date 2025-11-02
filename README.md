@@ -55,7 +55,7 @@ echo "Never go with the mainstream, choose your own path." – written by Idefix
 echo "Turn away from doubt, follow your vision, and see it through." - wb Idefix.
 echo "Survived the darkness, now enjoy the light. Try not to break the server." - retired BOFH 🌑💡🖥️💀
 echo "🦹‍♂️ Thief, ever wonder why a stick has two ends? 🪵🤔" written by id3fix
-echo "Why AI, man? I ain’t pastin’ my own code, why not?"
+echo "Why AI, man? I ain’t pastin’ my own code, why not?" wb @id3fix.
 ```
 ## 👓 Geek Code
 ```
