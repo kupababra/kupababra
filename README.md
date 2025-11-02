@@ -40,7 +40,7 @@
 
 ## 📚 Geek Wisdom
 ```
-echo "I'm not a parrot – keep your mouth off my words, and don’t steal 'ucho od śledzia'." - wb @czarnys
+echo "I'm not a parrot – keep your mouth off my words, and don’t steal 'ucho od śledzia'." - wb @czarnys.
 echo "True skill doesn’t need to be flashy to be effective."
 echo "Coffee in hand, memories of infinite loops." ☕💻
 echo "Never go with the mainstream, choose your own path." – written by Idefix.
