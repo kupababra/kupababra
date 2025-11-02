@@ -1,11 +1,9 @@
 # 🖴🔥🔧 TinkerWheel – Retro & BSD/Linux enthusiast
 
 ## 🚀 About Me
-- 🎧 Favorite vibe: late night coding with IRC open  
 - 🐧 Into Linux, BSD, retro computing, and oldschool net culture  
 - 💻 Keeping the IRC spirit alive  
 - 📫 Reach me: bofh@retro-technology.pl  
-- 🎥 Streaming retro & tech: [Twitch](https://www.twitch.tv/retrobofh) | [YouTube](https://www.youtube.com/@unix-tech)
 
 ---
 
@@ -13,13 +11,7 @@
 - 📀 **[RetroMp3](https://github.com/kupababra/RetroMp3)** – experiments with Mp3 retro player
 - 🎴 **[EverKDZ](https://github.com/kupababra/EverKDZ)** – Evercade base collector 
 - 💾 **[C64-AutomizerMenu](https://github.com/kupababra/C64-AutomizerMenu)** - manage your Commodore 1541 II station
-- ⚙️ **[DIY-Electronics](https://github.com/kupababra/diy-electronics)** – soldering, hacking & tinkering projects  
-
----
-
-## 🏆 Motto
-> 🔧⚙️ Where sparks fly, ideas run wild, and electronics bow to creativity.  
-> *Written by TinkerWheel (Idefix)*
+- ⚙️ **[DIY-Electronics](https://github.com/kupababra/diy-electronics)** – soldering, hacking & tinkering projects 
 
 ---
 ## 🧩 Rebus 
@@ -57,11 +49,19 @@ echo "Turn away from doubt, follow your vision, and see it through." - wb Idefix
 ```
 GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 ```
-## 🎵🎬 My Favorite Song & Movie 
+## 🎵🎬 My Favorite Songs & Movie
 ---
 
 ✨🎶 **Perfekt** - *Lokomotywa z ogłoszenia* ✨🎶
-🎧 [Listen on Spotify](https://open.spotify.com/track/78HUr9N1Y4V3d6N7SojprG)
+🎧[Listen on Spotify](https://open.spotify.com/track/78HUr9N1Y4V3d6N7SojprG)
+
+---
+✨🎶**Kombi** - *Black & White* ✨🎶
+🎧[Listen on Spotify](https://open.spotify.com/track/6a7HURkZkSmgNCIEKEfzVj)
+
+---
+✨🎶 **O.S.T.R.** - *Wersy W Pysk, prod. Killing Skills, cuts DJ Haem*✨🎶
+🎧[Listen on Spotify](https://open.spotify.com/track/3kbfbMLwuc8g9OqDQgZVTr)
 
 ---
 🎬👂 **Vabank** –  A classic Polish comedy, full of satire and unforgettable characters.
