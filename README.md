@@ -34,7 +34,7 @@
 
 🖥️ PDP-11 | 🎹 Commodore 64 | 🐧 Slackware 3.0 | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 VINYL / CD / DVD
 
-🖥️⌨️ Personal Computer 🇵🇱 | 🪩 Disco Ball | 📼 TAPE/VHS | ✊ Hip-Hop | 🤘 Rock ‘n’ Roll | 🎷 Blues & Soul | 🕺 Funk | 🐚 C/ASM
+🖥️⌨️ Personal Computer 🇵🇱 | 🐚 C/ASM |🪩  Disco Ball | 📼 TAPE/VHS | ✊ Hip-Hop | 🤘 Rock ‘n’ Roll | 🎷 Blues & Soul | 🕺 Funk
 
 ---
 
