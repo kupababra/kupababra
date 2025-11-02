@@ -41,9 +41,10 @@
 
 ## 🏛️ Retro Wall of Fame
 
-🖥️ PDP-11 | 🎹 Commodore 64 | 🎮 Atari / NES | 🐧 Slackware | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 VINYL/CD/DVD
-
+<div align="center">
+🖥️ PDP-11 | 🎹 Commodore 64 | 🎮 Atari / NES | 🐧 Slackware | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 VINYL/CD/DVD<br>
 🐚 C/ASM | 🖥️⌨️ Personal Computer 🇵🇱 | 🪩 Disco Ball | 📼 TAPE/VHS | ✊ Hip-Hop | 🤘 Rock ‘n’ Roll | 🎷 Blues & Soul | 🕺 Funk | 🚂
+</div>
 
 ## 📚 Geek Wisdom
 ```
