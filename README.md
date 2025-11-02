@@ -54,15 +54,17 @@ GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 ## 🎵🎬 My Favorite Songs & Movie
 ---
 
-🎶 [Perfekt – Lokomotywa z ogłoszenia](https://open.spotify.com/track/75FCrINXY90bmfDbGyJCrJ)  
-🎶 [Kombi – Black & White](https://open.spotify.com/track/7a0wv5rBUsxYyxOaqcpqTP)  
-🎶 [O.S.T.R. – Wersy W Pysk](https://open.spotify.com/track/0hpleYxPpPz0XNQ8SvDq54)
+<p align="center">
+🎶 <a href="https://open.spotify.com/track/75FCrINXY90bmfDbGyJCrJ">Perfekt – Lokomotywa z ogłoszenia</a> | 🎶 <a href="https://open.spotify.com/track/7a0wv5rBUsxYyxOaqcpqTP">Kombi – Black & White</a><br>
+🎶 <a href="https://open.spotify.com/track/0hpleYxPpPz0XNQ8SvDq54">O.S.T.R. – Wersy W Pysk</a> | 🎶 <a href="https://open.spotify.com/track/3G9nq3yDZC62oWs29WBBae">Paktofonika – Nowiny</a>
+</p>
 
----
-> "Back to the lab, Method Man and Redman style"  
-> — Da Rockwilder
 ---
 🎬👂 **Vabank** –  A classic Polish comedy, full of satire and unforgettable characters.
 ⭐🌐 (https://en.wikipedia.org/wiki/Vabank)
 
 ---
+> "Back to the lab, Method Man and Redman style"  
+> — Da Rockwilder
+---
+
