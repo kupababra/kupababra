@@ -64,21 +64,25 @@ GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 ```
 ## 🎵🎬 My Favorite Songs & Movie
 ---
-
 <p align="center">
-🎶 <a href="https://open.spotify.com/track/75FCrINXY90bmfDbGyJCrJ">Perfekt – Lokomotywa z ogłoszenia</a> | 🎶 <a href="https://open.spotify.com/track/7a0wv5rBUsxYyxOaqcpqTP">Kombi – Black & White</a><br>
-🎶 <a href="https://open.spotify.com/track/0hpleYxPpPz0XNQ8SvDq54">O.S.T.R. – Wersy W Pysk</a> | 🎶 <a href="https://open.spotify.com/track/3G9nq3yDZC62oWs29WBBae">Paktofonika – Nowiny</a> |
-🎶 <a href="https://open.spotify.com/track/4eZO97RGFo7IN6gm24Nv0S">Bomfunk MC's - Freestyler</a> |
-🎶 <a href="https://open.spotify.com/track/5oSOzHVwQfZsB9aBxp2YXh">Kury - Jesienna Deprecha</a> | 🎶 <a href="https://open.spotify.com/track/1RcBfz2d60oCeMK5Vg6769">Tadeusz Nalepa - Modlitwa</a> | 
-🎶 <a href="https://open.spotify.com/track/1ZkmeJQ7MR0svFp55DHOcx">2 Plus 1 - Gdy grali dla nas Rolling Stones</a>
+🎸 <a href="https://open.spotify.com/track/75FCrINXY90bmfDbGyJCrJ">Perfekt – Lokomotywa z ogłoszenia</a>  |  
+🎹 <a href="https://open.spotify.com/track/7a0wv5rBUsxYyxOaqcpqTP">Kombi – Black & White</a>  |  
+🎤 <a href="https://open.spotify.com/track/0hpleYxPpPz0XNQ8SvDq54">O.S.T.R. – Wersy W Pysk</a>  |  
+🎧 <a href="https://open.spotify.com/track/3G9nq3yDZC62oWs29WBBae">Paktofonika – Nowiny</a>  |  
+💿 <a href="https://open.spotify.com/track/3H3cOQO3RrKXWkTDu8PzyT">Bomfunk MC’s – Freestyler</a>  |  
+🐓 <a href="https://open.spotify.com/track/1ImM5kl0bQfhyb9rOewt0N">Kury – Jesienna Deprecha</a>  |  
+🎷 <a href="https://open.spotify.com/track/1v2tSC6dYIu0h9QbKNPSTr">Tadeusz Nalepa – Modlitwa</a>  |  
+🎵 <a href="https://open.spotify.com/track/7fa1X3KzqMi2knMM6CUgC1">2 Plus 1 – Gdy grali dla nas Rolling Stones</a>
 </p>
+
+---
+
+> *"From analog dreams to digital beats – oldskool never dies."* 💾🔥
 
 ---
 🎬👂 **Vabank** –  A classic Polish comedy, full of satire and unforgettable characters.
 ⭐🌐 (https://en.wikipedia.org/wiki/Vabank)
 
 ---
-> "Back to the lab, Method Man and Redman style"  
-> — Da Rockwilder
----
+
 
