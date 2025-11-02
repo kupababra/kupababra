@@ -32,9 +32,9 @@
 
 ## 🏛️ Retro Wall of Fame
 
-🖥️ PDP-11 | 🎹 Commodore 64 | 🐧 Slackware 3.0 | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 VINYL / CD / DVD
+🖥️ PDP-11 | 🎹 Commodore 64 | 🐧 Slackware | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 VINYL/CD/DVD |🐚 C/ASM
 
-🖥️⌨️ Personal Computer 🇵🇱 | 🐚 C/ASM |🪩  Disco Ball | 📼 TAPE/VHS | ✊ Hip-Hop | 🤘 Rock ‘n’ Roll | 🎷 Blues & Soul | 🕺 Funk
+🖥️⌨️ Personal Computer 🇵🇱 | 🪩  Disco Ball | 📼 TAPE/VHS | ✊ Hip-Hop | 🤘 Rock ‘n’ Roll | 🎷 Blues & Soul | 🕺 Funk | Retro
 
 ---
 
@@ -45,6 +45,7 @@ echo "True skill doesn’t need to be flashy to be effective."
 echo "Coffee in hand, memories of infinite loops." ☕💻
 echo "Never go with the mainstream, choose your own path." – written by Idefix.
 echo "Turn away from doubt, follow your vision, and see it through." - wb Idefix.
+echo "Survived the darkness, now enjoy the light. Try not to break the server." - retired BOFH 🌑💡🖥️💀
 ```
 ## 👓 Geek Code
 ```
