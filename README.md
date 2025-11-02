@@ -32,9 +32,9 @@
 
 ## 🏛️ Retro Wall of Fame
 
-🖥️ PDP-11 | 🎹 Commodore 64 | 🐧 Slackware | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 VINYL/CD/DVD |🐚 C/ASM
+🖥️ PDP-11 | 🎹 Commodore 64 | 🎮 Atari / NES | 🐧 Slackware | 🌀 NetBSD | 💾 5.25" floppies forever | 🕹️ Joystick | 💿 VINYL/CD/DVD
 
-🖥️⌨️ Personal Computer 🇵🇱 | 🪩  Disco Ball | 📼 TAPE/VHS | ✊ Hip-Hop | 🤘 Rock ‘n’ Roll | 🎷 Blues & Soul | 🕺 Funk | Retro
+🐚 C/ASM | 🖥️⌨️ Personal Computer 🇵🇱 | 🪩 Disco Ball | 📼 TAPE/VHS | ✊ Hip-Hop | 🤘 Rock ‘n’ Roll | 🎷 Blues & Soul | 🕺 Funk | 🚂
 
 ---
 
