@@ -52,16 +52,9 @@ GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 ## 🎵🎬 My Favorite Songs & Movie
 ---
 
-✨🎶 **Perfekt** - *Lokomotywa z ogłoszenia* ✨🎶
-🎧[Listen on Spotify](https://open.spotify.com/track/78HUr9N1Y4V3d6N7SojprG)
-
----
-✨🎶 **Kombi** - *Black & White* ✨🎶
-🎧[Listen on Spotify](https://open.spotify.com/track/6a7HURkZkSmgNCIEKEfzVj)
-
----
-✨🎶 **O.S.T.R.** - *Wersy W Pysk, prod. Killing Skills, cuts DJ Haem*✨🎶
-🎧[Listen on Spotify](https://open.spotify.com/track/3kbfbMLwuc8g9OqDQgZVTr)
+🎶 [Perfekt – Lokomotywa z ogłoszenia](https://open.spotify.com/track/75FCrINXY90bmfDbGyJCrJ)  
+🎶 [Kombi – Black & White](https://open.spotify.com/track/7a0wv5rBUsxYyxOaqcpqTP)  
+🎶 [O.S.T.R. – Wersy W Pysk](https://open.spotify.com/track/0hpleYxPpPz0XNQ8SvDq54)
 
 ---
 🎬👂 **Vabank** –  A classic Polish comedy, full of satire and unforgettable characters.
