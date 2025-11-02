@@ -57,6 +57,9 @@ GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 🎶 [O.S.T.R. – Wersy W Pysk](https://open.spotify.com/track/0hpleYxPpPz0XNQ8SvDq54)
 
 ---
+> "Back to the lab, Method Man and Redman style"  
+> — Da Rockwilder
+---
 🎬👂 **Vabank** –  A classic Polish comedy, full of satire and unforgettable characters.
 ⭐🌐 (https://en.wikipedia.org/wiki/Vabank)
 
