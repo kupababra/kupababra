@@ -77,7 +77,7 @@ GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
 
 ---
 
-> *"From analog dreams to digital beats – oldskool never dies."* 💾🔥
+> *"From analog dreams to digital beats – oldskool never dies."* 💾🔥 | „Gdzie logi milczą, tam zaczyna się iD3fix.”
 
 ---
 🎬👂 **Vabank** –  A classic Polish comedy, full of satire and unforgettable characters.
