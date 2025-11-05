@@ -35,8 +35,7 @@
 📚 Geek Wisdom
 
 "IRC warrior: ghost hunter of lost channels 😉👻🖥️" - wb @czarnys  
-"True skill doesn’t need to be flashy to be effective." — C N 🥋👊🖥️  
-"Coffee in hand, memories of infinite loops." ☕💻  
+"True skill doesn’t need to be flashy to be effective." — C N 🥋👊🖥️    
 "Never go with the mainstream, choose your own path." – written by Idefix  
 "Turn away from doubt, follow your vision, and see it through." - wb @Id33fix   
   
