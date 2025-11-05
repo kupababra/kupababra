@@ -34,7 +34,6 @@
 
 📚 Geek Wisdom
 
-"I'm not a parrot – keep your mouth off my words, and don’t steal 'ucho od śledzia'." - wb @czarnys  
 "IRC warrior: ghost hunter of lost channels 😉👻🖥️" - wb @czarnys  
 "True skill doesn’t need to be flashy to be effective." — C N 🥋👊🖥️  
 "Coffee in hand, memories of infinite loops." ☕💻  
