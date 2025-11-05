@@ -39,11 +39,8 @@
 "True skill doesn’t need to be flashy to be effective." — C N 🥋👊🖥️  
 "Coffee in hand, memories of infinite loops." ☕💻  
 "Never go with the mainstream, choose your own path." – written by Idefix  
-"Turn away from doubt, follow your vision, and see it through." - wb Idefix  
-"Survived the darkness, now enjoy the light. Try not to break the server." - retired BOFH 🌑💡🖥️💀  
-"🦹‍♂️ Thief, ever wonder why a stick has two ends? 🪵🤔" written by id3fix  
-"Why AI, man? I ain’t pastin’ my own code, why not?" wb @id3fix
-
+"Turn away from doubt, follow your vision, and see it through." - wb Idefix   
+  
 👓 Geek Code
 
 GCS/J S/M O/U+L+BSD/C64+ M- V++ TV+ P-- L++ E- W-- N++(!) PGP+ !?
