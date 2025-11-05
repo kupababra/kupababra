@@ -64,7 +64,7 @@ Gentoo Base System release 2.18
 ### 😴 Evening Setup
 ```bash
 $ uname -pro ; cat /etc/slackware-version
-6.12.56 Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz GNU/Linux
+6.12.57 Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz GNU/Linux
 Slackware 15.0+
 ```
 
