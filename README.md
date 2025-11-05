@@ -38,7 +38,7 @@
 "True skill doesn’t need to be flashy to be effective." — C N 🥋👊🖥️  
 "Coffee in hand, memories of infinite loops." ☕💻  
 "Never go with the mainstream, choose your own path." – written by Idefix  
-"Turn away from doubt, follow your vision, and see it through." - wb Idefix   
+"Turn away from doubt, follow your vision, and see it through." - wb Id33fix   
   
 👓 Geek Code
 
