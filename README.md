@@ -59,8 +59,9 @@ Gentoo Base System release 2.18
 Sometimes, when I go to sleep watching movies on my ThinkPad T400, I switch to:
 
 ```bash
-$ uname -pro
-Slackware Current on T400 – classic vibes, movies, and late-night tinkering
+$ uname -pro ; cat /etc/slackware-version
+6.12.56 Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz GNU/Linux
+Slackware 15.0+
 ```
 
 🎵🎬 My Favorite Songs & Movie
