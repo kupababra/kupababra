@@ -49,7 +49,8 @@ Here’s the OS and kernel I’m rocking daily:
 ```bash
 $ cat /etc/gentoo-release ; uname -pro
 Gentoo Base System release 2.18
-6.17.7-gentoo-immortale AMD Ryzen Z1 Extreme GNU/Linux
+6.18.4-gentoo-immortale AMD Ryzen Z1 Extreme GNU/Linux
+
 ```
 
 🎵🎬 My Favorite Songs & Movie
