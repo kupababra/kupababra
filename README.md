@@ -64,6 +64,7 @@ Gentoo Base System release 2.18
 🐓 Kury – Jesienna Deprecha  
 🎷 Tadeusz Nalepa – Modlitwa  
 🎵 2 Plus 1 – Gdy grali dla nas Rolling Stones
+🔥 Hurt - Załoga G
 
 "From analog dreams to digital beats – oldskool never dies." 💾🔥 | „Gdzie logi milczą, tam zaczyna się iD3fix.”
 
