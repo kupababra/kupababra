@@ -29,7 +29,8 @@
 
 🏛️ Retro Wall of Fame
 
-🖥️ PDP-11 | 🎹 Commodore 64 | 🎮 Atari / NES | 🐧 Slackware/Gentoo | 🌀 *BSD | 💾 floppies forever | 🕹️ Joystick | 💿 VINYL/CD/DVD  
+🖥️ PDP-11 | 🎹 Commodore 64 | 🎮 Atari / NES | 🐧 Slackware/Gentoo | 🌀 *BSD | 💾 floppies forever | 🕹️ Joystick | 💿 VINYL/CD/DVD
+
 🐚 C/ASM | 🖥️⌨️ Personal Computer 🇵🇱 | 🪩 Disco Ball | 📼 TAPE/VHS | ✊ Hip-Hop | 🤘 Rock ‘n’ Roll | 🎷 Blues & Soul | 🕺 Funk | 🚂
 
 📚 Geek Wisdom
@@ -49,7 +50,7 @@ Here’s the OS and kernel I’m rocking daily:
 ```bash
 $ cat /etc/gentoo-release ; uname -pro
 Gentoo Base System release 2.18
-6.18.4-gentoo-immortale AMD Ryzen Z1 Extreme GNU/Linux
+6.18.5-gentoo-immortale AMD Ryzen Z1 Extreme GNU/Linux
 
 ```
 
