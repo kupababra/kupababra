@@ -60,7 +60,7 @@ Gentoo Base System release 2.18
 🎤 O.S.T.R. – Wersy W Pysk  |  🎧 Paktofonika – Nowiny  
 💿 Bomfunk MC’s – Freestyler  |  🐓 Kury – Jesienna Deprecha  
 🎷 Tadeusz Nalepa – Modlitwa  |  🎵 2 Plus 1 – Gdy grali dla nas Rolling Stones   
-🔥 Hurt - Załoga G
+🔥 Hurt - Załoga G  | 🕷️ The Prodigy - Voodoo People
 
 "From analog dreams to digital beats – oldskool never dies." 💾🔥 | „Gdzie logi milczą, tam zaczyna się iD3fix.”
 
