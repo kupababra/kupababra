@@ -4,7 +4,7 @@
 
 🐧 Into Linux, BSD, retro computing, and oldschool net culture  
 💻 Keeping the IRC spirit alive  
-📫 Reach me: id3fix@retro-technology.pl
+📫 Reach me: id3fix@basheclipse.org
 
 📂 Key Projects
 
