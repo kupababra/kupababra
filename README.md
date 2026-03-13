@@ -8,9 +8,8 @@
 
 📂 Key Projects
 
-📀 RetroMp3 – experiments with Mp3 retro player  
-🎴 EverKDZ – Evercade base collector  
-💾 C64-AutomizerMenu – manage your Commodore 1541 II station  
+📀 RetroMp3 – experiments with Mp3 retro player.   
+💾 C64-AutomizerMenu – manage your Commodore 1541 II station.  
 🎹 Retro-SID-Player - lightning-fast, terminal-based C 64 SID music player for Linux.
 
 🧩 Rebus
