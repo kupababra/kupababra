@@ -10,7 +10,7 @@
 
 📀 RetroMp3 – experiments with Mp3 retro player in Python.  
 💾 C64-AutomizerMenu – manage your Commodore 1541 II station in Bash.
-🎹 Retro-SID-Player - a terminal-based Commodore 64 SID music player for Linux, written in x86-64 Assembly.
+🎹 
 
 🧩 Rebus
 
