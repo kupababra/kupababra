@@ -1,29 +1,47 @@
-# 🖴🔥🔧 TinkerWheel – Retro & BSD/Linux enthusiast
+<div align="center">
 
-🚀 About Me
+```text
+    _  _   _         _             _ _ _ _            _ 
+   | || |_(_)_ _  | |_____ _ _  | | | | |__  ___ ___| |
+   |__   _| | ' \ | / / -_) '_| | | | | '  \/ -_) -_) |
+      |_| |_|_||_||_\_\___|_|   |_____|_|_|_\___\___|_|
+                                         (id3fix)
 
-🐧 Into Linux, BSD, retro computing, and oldschool net culture  
-💻 Keeping the IRC spirit alive  
-📫 Reach me: id3fix@basheclipse.org
+"If it fits in a register, it fits in my heart." 🖤
+
+</div>
+🚀 System Status
+
+    OS: FreeBSD | Linux | C64
+
+    Focus: Low-level programming, IRC culture, retro-computing
 
 📂 Key Projects
+🎹 Retro-SID Player
 
-📀 RetroMp3 - experiments with Mp3 retro player in Python.  
-💾 C64-AutomizerMenu - manage your Commodore 1541 II station in Bash.
+The crown jewel. A high-performance, terminal-based C64 SID music player for Linux.
 
-🎹 Retro-SID Player - terminal-based Commodore 64 SID music player for Linux, written in x86-64 Assembly.
+    Tech: Written entirely in x86-64 Assembly.
 
+    Features: Zero bloat, pure hardware-to-audio-buffer logic. Bringing the legendary MOS 6581 sound to the modern CLI.
+
+💾 C64-AutomizerMenu
+
+A Bash-driven interface to manage the Commodore 1541 II disk drive. Bridging the gap between modern scripts and classic 5.25" floppies.
+📀 RetroMp3
+
+Python-based experiments with vintage MP3 playback logic and minimalist terminal interfaces.
 🧩 Rebus
 
-🥑 r◐◓t = wheel = th•nk — created by id3fix
+    🥑 r◐◓t = wheel = th•nk — logic by id3fix
+
+💬 Connect
+
+    IRC: id3fix @ IRCnet / EFnet
+
+    Mail: id3fix@basheclipse.org
 
 🙌 Shoutouts
-
-```
-+-------------------+-------------------+
-| #Ircnet crew      | #Efnet legends    |
-| BSD ppl           | oldskool vibes    |
-| Linux ppl         | retro fans        |
-+-------------------+-------------------+
-```
-
+IRCnet crew	🏴‍☠️ EFnet legends
+BSD sysadmins	Oldskool hackers
+Linux kernel fans	Retro demoscene
