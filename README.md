@@ -19,10 +19,12 @@
 🎹 Retro-SID Player
 The crown jewel. A high-performance, terminal-based C64 SID music player for Linux.
 Tech: Written entirely in x86-64 Assembly.
-Features: Zero bloat, pure hardware-to-audio-buffer logic. Bringing the legendary MOS 6581 sound to the modern CLI.
+Features: Zero bloat, pure hardware-to-audio-buffer logic.
+Bringing the legendary MOS 6581 sound to the modern CLI.
 
 💾 C64-AutomizerMenu
-A Bash-driven interface to manage the Commodore 1541 II disk drive. Bridging the gap between modern scripts and classic 5.25" floppies.
+A Bash-driven interface to manage the Commodore 1541 II disk drive.
+Bridging the gap between modern scripts and classic 5.25" floppies.
 
 📀 RetroMp3
 Python-based experiments with vintage MP3 playback logic and minimalist terminal interfaces.
