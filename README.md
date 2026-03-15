@@ -7,7 +7,7 @@
       |_| |_|_||_||_\_\___|_|   |_____|_|_|_\___\___|_|
                                          (id3fix)
 
-"If it fits in a register, it fits in my heart." 🖤
+"If it fits in a register, it fits in my heart." 
 
 </div>
 🚀 System Status
@@ -38,6 +38,6 @@ Python-based experiments with vintage MP3 playback logic and minimalist terminal
     Mail: id3fix@basheclipse.org
 
 🙌 Shoutouts
-IRCnet crew	🏴‍☠️ EFnet legends
-BSD sysadmins	Oldskool hackers
+IRCnet crew	 EFnet legends
+BSD sysadmins	Oldskool ppl
 Linux kernel fans	Retro demoscene
