@@ -16,11 +16,11 @@
 
 📂 Key Projects
 
-🎹 Retro-SID Player
+🎹 SIDEXEC Player
 The crown jewel. A high-performance, terminal-based C64 SID music player for Linux.
-Tech: Written entirely in x86-64 Assembly.
-Features: Zero bloat, pure hardware-to-audio-buffer logic.
-Bringing the legendary MOS 6581 sound to the modern CLI.
+Tech: Core written in x86-64 Assembly with a minimal C wrapper, leveraging sidplayfp for authentic SID playback alongside a custom ASM-driven playback mode.
+Features: Zero bloat. Dual-mode engine — play standard SID files or execute raw ASM audio data directly. Tight, low-level control with smooth terminal animations.
+Bringing the legendary sound of the MOS 6581 from the Commodore 64 straight into the modern Linux CLI.
 
 💾 C64-AutomizerMenu
 A Bash-driven interface to manage the Commodore 1541 II disk drive.
