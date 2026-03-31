@@ -15,10 +15,10 @@
   +------------------------------+
     OS: FreeBSD | Linux | C64
     Focus: Low-level programming, IRC culture, retro-computing
+
   +------------------------------+
   |        KEY PROJECTS          |
   +------------------------------+
-
  ; SIDEXEC Player ;
 The crown jewel. High-performance, terminal-based C64 SID player for Linux.
 Tech: x86-64 Assembly core + minimal C wrapper, powered by sidplayfp and custom ASM playback.
