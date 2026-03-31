@@ -7,7 +7,7 @@
       |_| |_|_||_||_\_\___|_|   |_____|_|_|_\___\___|_|
                                          (id3fix)
 
-"If it fits in a register, it fits in my heart." 
+     "Turn away from doubt, follow your vision, and see it through" 
 
 
   +------------------------------+
